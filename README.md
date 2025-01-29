@@ -22,11 +22,6 @@ Because EV3 sucks, functions aren't being used for now.
 
 
 
-
-
-
-
-
-
+**IMPORTANT:**
 
 **PS: The files are not going to be fully functional for a while, so just look at the release notes.**
