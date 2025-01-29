@@ -12,12 +12,12 @@ Because EV3 sucks, functions aren't being used for now.
 
 **stable.py**:
 
-    Most consistent program we have, might be a little old but gets the job done (look at stable working stuff)
+  Most consistent program we have, might be a little old but gets the job done (look at stable working stuff)
 
 
 **debug.py**:
 
-    Newest program, might not work, look at the debug working stuff (Not always going to be there, because of malfunctioning)
+  Newest program, might not work, look at the debug working stuff (Not always going to be there, because of malfunctioning)
 
 
 
