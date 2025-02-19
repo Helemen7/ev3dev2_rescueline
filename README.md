@@ -3,12 +3,12 @@ Python 3 program for Rescue Line with ev3dev2
 Because EV3 sucks, functions aren't being used for now.
 
 **Working stuff**:
-  - Black and white (proportional) line follower (proportional in stable)
+  - Black and white (proportional) line follower (proportional in debug)
 
   
 **Not working stuff**:
   - Room
-  - Green line follower part
+  - (Green line follower part) -> Still in implementation
 
 **stable.py**:
 
